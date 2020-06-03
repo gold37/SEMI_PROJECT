@@ -1,0 +1,2 @@
+# SEMI_PROJECT
+연습용
